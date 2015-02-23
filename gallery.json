@@ -1,0 +1,96 @@
+
+
+
+// SAME AS JD's gallery.json??????
+
+[{
+  "albumName":"Cats",
+  "photoId":"cat1"
+  "caption":"A cat"
+  "photoLocation":"images/1cats/cat1.jpeg"
+},{
+  "albumName":"Cats",
+  "photoId":"cat2",
+  "caption":"Another cat",
+  "photoLocation":"images/1cats/cat2.jpeg" 
+},{
+  "albumName":"Cats",
+  "photoId":"cat3",
+  "caption":"Yet another cat",
+  "photoLocation":"images/1cats/cat3.jpeg"
+},{
+  "albumName":"Dogs",
+  "photoId":"dog1",
+  "caption":"A dog",
+  "photoLocation":"images/2dogs/dog1.jpeg"
+},{
+  "albumName":"Dogs",
+  "photoId":"dog2",
+  "caption":"Another dog",
+  "photoLocation":"images/2dogs/dog2.jpeg"
+},{
+  "albumName":"Dogs",
+  "photoId":"dog3",
+  "caption":"Yet another dog",
+  "photoLocation":"images/2dogs/dog3.jpeg"
+},{
+  "albumName":"Turtles",
+  "photoId":"turtle1",
+  "caption":"This is a turtle",
+  "photoLocation":"images/3turtles/turtle1.jpeg"
+},{
+  "albumName":"Turtles",
+  "photoId":"turtle2",
+  "caption":"Another turtle",
+  "photoLocation":"images/3turtles/turtle2.jpeg"
+},{
+  "albumName":"Turtles",
+  "photoId":"turtle3",
+  "caption":"Tiny ninja turtles",
+  "photoLocation":"images/3turtles/turtle3.jpeg"
+},{
+  "albumName":"TMNT",
+  "photoId":"ninja-turtles1",
+  "caption":"Cowabunga",
+  "photoLocation":"images/4ninja-turtles/ninja1.jpeg"
+},{
+  "albumName":"TMNT",
+  "photoId":"ninja-turtles2",
+  "caption":"Radical!",
+  "photoLocation":"images/4ninja-turtles/ninja2.jpeg"
+},{
+  "albumName":"TMNT",
+  "photoId":"ninja-turtles3",
+  "caption":"Heroes in a half shell.",
+  "photoLocation":"images/4ninja-turtles/ninja3.jpeg"
+},{
+  "albumName":"Heroes",
+  "photoId":"hero1",
+  "caption":"Spidey",
+  "photoLocation":"images/5heroes/hero1.jpeg"
+},{
+  "albumName":"Heroes",
+  "photoId":"hero2",
+  "caption":"The Batman",
+  "photoLocation":"images/5heroes/hero2.jpeg"
+},{
+  "albumName":"Heroes",
+  "photoId":"hero3",
+  "caption":"Mega Man OctoCat!",
+  "photoLocation":"images/5heroes/hero3.jpeg"
+},{
+  "albumName":"Villains",
+  "photoId":"villain1",
+  "caption":"Magneto",
+  "photoLocation":"images/6villains/villain1.jpeg"
+},{
+  "albumName":"Villains",
+  "photoId":"villain2",
+  "caption":"The Shredder",
+  "photoLocation":"images/6villains/villain2.jpeg"
+},{
+  "albumName":"Villains",
+  "photoId":"villain2",
+  "caption":"Robotnik",
+  "photoLocation":"images/6villains/villain2.jpeg"
+}]
